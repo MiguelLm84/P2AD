@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<modulos>
+    <modulo id="1">
+        <nombre>Desarrollo de aplicaciones multiplataforma</nombre>
+        <curso>2020-2021</curso>
+        <ciclo>2</ciclo>
+        <horas>2000</horas>
+    </modulo>
+    <modulo id="2">
+        <nombre>Administración de sistemas informáticos y redes</nombre>
+        <curso>2020-2021</curso>
+        <ciclo>1</ciclo>
+        <horas>2000</horas>
+    </modulo>
+    <modulo id="3">
+        <nombre>Desarrollo de aplicaciones web</nombre>
+        <curso>2020-2021</curso>
+        <ciclo>3</ciclo>
+        <horas>2000</horas>
+    </modulo>
+</modulos>

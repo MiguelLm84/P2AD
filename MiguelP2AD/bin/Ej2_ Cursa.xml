@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cursa SYSTEM "Ej2_AD_Cursa.dtd">
+<cursa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Ej2_AD_Cursa.xsd">
+    <nota></nota>
+    <año></año>
+  </cursa>
